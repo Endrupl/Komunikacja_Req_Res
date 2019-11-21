@@ -1,0 +1,14 @@
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\bin\Debug\ProgramRequestResponseServer.exe.config
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\obj\Debug\ProgramRequestResponseServer.csprojResolveAssemblyReference.cache
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\obj\Debug\ProgramRequestResponseServer.Form1.resources
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\obj\Debug\ProgramRequestResponseServer.Properties.Resources.resources
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\obj\Debug\ProgramRequestResponseServer.csproj.GenerateResource.Cache
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\bin\Debug\ProgramRequestResponseServer.exe
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\bin\Debug\ProgramRequestResponseServer.pdb
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\bin\Debug\AsyncIO.dll
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\bin\Debug\NetMQ.dll
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\bin\Debug\AsyncIO.pdb
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\bin\Debug\NetMQ.pdb
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\bin\Debug\NetMQ.xml
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\obj\Debug\ProgramRequestResponseServer.exe
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramRequestResponseServer\ProgramRequestResponseServer\obj\Debug\ProgramRequestResponseServer.pdb
